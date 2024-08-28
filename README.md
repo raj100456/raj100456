@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raj and I'm a Software Developer, from Varanasi<br><br>- 🔭 I’m currently working on full-stack development for an E-commerce website called QKart with Html, CSS, JS, ReactJs, NextJs, NodeJs MongoDB, Sql.<br>- 🌱 I’m currently learning to be a MERN stack developer.<br>- 👯 I’m looking to collaborate on emerging front-end technologies.<br>- 🤔 I’m looking for help with React<br>- 💬 Ask me about test automation</h2>
+<h2 align="left">Hi 👋! My name is Rajkumar and I'm a Software Developer, from Varanasi<br><br>- 🔭 I’m currently working on full-stack development for an E-commerce website called QKart with Html, CSS, JS, ReactJs, NextJs, NodeJs MongoDB, Sql.<br>- 🌱 I’m currently learning to be a MERN stack developer.<br>- 👯 I’m looking to collaborate on emerging front-end technologies.<br>- 🤔 I’m looking for help with React<br>- 💬 Ask me about test automation</h2>
 
 ###
 
